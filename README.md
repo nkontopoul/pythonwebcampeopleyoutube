@@ -4,6 +4,7 @@ This Python program performs real-time person detection on a live YouTube video 
 It uses the YOLOv5 model for object detection, specifically to identify humans in the video frames. The program draws bounding boxes around detected persons and displays the live video with these annotations.
 
 Technologies Used
+
 Python: The primary programming language used to write the script.
 
 PyTorch: A deep learning framework used to load and run the YOLOv5 model.
