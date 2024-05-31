@@ -1,0 +1,4 @@
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+opencv-python==4.9.0
+streamlink==6.2.0
